@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/RandomKitty/static/css/main.9073d1b2.chunk.css",
+    "main.js": "/RandomKitty/static/js/main.22f861df.chunk.js",
+    "main.js.map": "/RandomKitty/static/js/main.22f861df.chunk.js.map",
+    "runtime-main.js": "/RandomKitty/static/js/runtime-main.e139ec60.js",
+    "runtime-main.js.map": "/RandomKitty/static/js/runtime-main.e139ec60.js.map",
+    "static/css/2.31461e4f.chunk.css": "/RandomKitty/static/css/2.31461e4f.chunk.css",
+    "static/js/2.78af52e7.chunk.js": "/RandomKitty/static/js/2.78af52e7.chunk.js",
+    "static/js/2.78af52e7.chunk.js.map": "/RandomKitty/static/js/2.78af52e7.chunk.js.map",
+    "static/js/3.6c435917.chunk.js": "/RandomKitty/static/js/3.6c435917.chunk.js",
+    "static/js/3.6c435917.chunk.js.map": "/RandomKitty/static/js/3.6c435917.chunk.js.map",
+    "index.html": "/RandomKitty/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/RandomKitty/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.9073d1b2.chunk.css.map": "/RandomKitty/static/css/main.9073d1b2.chunk.css.map",
+    "static/js/2.78af52e7.chunk.js.LICENSE.txt": "/RandomKitty/static/js/2.78af52e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e139ec60.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.78af52e7.chunk.js",
+    "static/css/main.9073d1b2.chunk.css",
+    "static/js/main.22f861df.chunk.js"
+  ]
+}
