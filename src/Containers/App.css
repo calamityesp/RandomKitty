@@ -1,0 +1,10 @@
+h1 {
+    font-family: "Luckiest Guy", cursive;
+    font-size: 1000px;
+    color: white;
+  }
+  
+  div.tc h1{
+    font-size: 100px;
+    letter-spacing:5px;
+  }
